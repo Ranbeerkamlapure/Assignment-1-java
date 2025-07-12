@@ -1,2 +1,9 @@
 # Assignment-1-java
-Java solutions covering string manipulation, matrix operations, and control flow fundamentals.
+This repo contains Java solutions for **Assignment 1**.  
+It includes programs that use:
+
+- Strings
+- 2D Arrays / Matrices
+- If-else and switch statements
+- Loops (for and while)
+- Input and output techniques
