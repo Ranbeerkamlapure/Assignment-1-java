@@ -1,4 +1,4 @@
-// program that prints your name, college name, and current date 
+program that prints your name, college name, and current date 
 
 // import java.util.Scanner;
 // import java.time.LocalDate;
@@ -14,10 +14,10 @@
 //     }
 // }
 
-// Java program to input a number and check if it is:
-// Even or Odd
-// Prime or not
-// Map to weekday using switch-case (1=Monday … 7=Sunday)
+Java program to input a number and check if it is:
+Even or Odd
+Prime or not
+Map to weekday using switch-case (1=Monday … 7=Sunday)
 
 
 // import java.util.Scanner;
